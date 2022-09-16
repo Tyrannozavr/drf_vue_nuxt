@@ -1,0 +1,16 @@
+[
+  {
+    "name": "fun",
+    "path": "/fun",
+    "component": "/home/dmiv/PycharmProjects/hitman/pythonProject/vue/hello_nuxt/pages/fun.vue",
+    "chunkName": "pages/fun",
+    "_name": "_52611267"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/dmiv/PycharmProjects/hitman/pythonProject/vue/hello_nuxt/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_70e3983a"
+  }
+]

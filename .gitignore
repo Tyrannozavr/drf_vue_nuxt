@@ -1,0 +1,4 @@
+/vue/node_modules/
+/vue/hello_nuxt/node_modules/
+/backend/backend/__pycache__
+.idea
